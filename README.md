@@ -32,6 +32,9 @@ The complete documentation for the CrystalOS vision, architecture, and business 
 7. **[The Roadmap](docs/07_roadmap.md)**
    Follow our planned progression from a 16-year-old's proof of concept to a platform with 1 million users.
 
+8. **[The 200-Phase Breakdown](docs/08_200_phase_breakdown.md)**
+   A granular, 200-step technical checklist detailing the development from the Rust microkernel to the public 1.0 release.
+
 ---
 
 *"The cursor expands because it should. The OS shrinks because it respects you. The text crawls inside because that's where it lives. Now go build it."*
