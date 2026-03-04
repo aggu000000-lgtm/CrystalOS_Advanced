@@ -23,7 +23,7 @@ Building a custom operating system from the ground up is an immense undertaking.
 - [x] Define the "crawled inside" text rendering specifications.
 
 ### Phase 7: Draft the...
-- [ ] Draft the physics mathematical models for the cursor.
+- [x] Draft the physics mathematical models for the cursor.
 
 ### Phase 8: Design the...
 - [ ] Design the overarching security model (Agent 7).
