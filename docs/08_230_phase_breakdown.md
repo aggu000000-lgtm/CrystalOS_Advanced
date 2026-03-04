@@ -26,7 +26,7 @@ Building a custom operating system from the ground up is an immense undertaking.
 - [x] Draft the physics mathematical models for the cursor.
 
 ### Phase 8: Design the...
-- [ ] Design the overarching security model (Agent 7).
+- [x] Design the overarching security model (Agent 7).
 
 ### Phase 9: Plan the...
 - [ ] Plan the CrystalFS snapshot and compression features.
