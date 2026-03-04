@@ -5,19 +5,19 @@ Building a custom operating system from the ground up is an immense undertaking.
 ## Architecture & Ideation (Phases 1-10)
 
 ### Phase 1: Define the...
-- [ ] Define the CrystalOS manifesto and core principles.
+- [x] Define the CrystalOS manifesto and core principles.
 
 ### Phase 2: Draft the...
-- [ ] Draft the 5-year, 10-year, and 20-year vision.
+- [x] Draft the 5-year, 10-year, and 20-year vision.
 
 ### Phase 3: Outline target...
-- [ ] Outline target hardware requirements (UEFI, 2GB RAM min).
+- [x] Outline target hardware requirements (UEFI, 2GB RAM min).
 
 ### Phase 4: Conceptualize the...
 - [x] Conceptualize the 7-agent communication architecture.
 
 ### Phase 5: Design the...
-- [ ] Design the lock-free data structures for IPC.
+- [x] Design the lock-free data structures for IPC.
 
 ### Phase 6: Define the...
 - [ ] Define the "crawled inside" text rendering specifications.
