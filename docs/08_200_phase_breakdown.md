@@ -14,7 +14,7 @@ Building a custom operating system from the ground up is an immense undertaking.
 - [ ] Outline target hardware requirements (UEFI, 2GB RAM min).
 
 ### Phase 4: Conceptualize the...
-- [ ] Conceptualize the 7-agent communication architecture.
+- [x] Conceptualize the 7-agent communication architecture.
 
 ### Phase 5: Design the...
 - [ ] Design the lock-free data structures for IPC.
