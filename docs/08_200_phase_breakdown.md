@@ -20,7 +20,7 @@ Building a custom operating system from the ground up is an immense undertaking.
 - [x] Design the lock-free data structures for IPC.
 
 ### Phase 6: Define the...
-- [ ] Define the "crawled inside" text rendering specifications.
+- [x] Define the "crawled inside" text rendering specifications.
 
 ### Phase 7: Draft the...
 - [ ] Draft the physics mathematical models for the cursor.
